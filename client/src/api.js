@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:5000/api';
+const BASE_URL = 'https://expense-tracker-api-m6hs.onrender.com/api';
 const TOKEN_KEY = 'ledger-token';
 
 export function getToken() {
