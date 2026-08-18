@@ -15,13 +15,13 @@ A full-stack personal expense tracking application for managing transactions, bu
 
 ## Key Features
 
-* 🔐 **Google Authentication** — Secure sign-in using Google OAuth 2.0.
-* 💸 **Transaction Management** — Create, view, update, and delete income and expense transactions.
-* 📊 **Dashboard & Analytics** — Visualize spending and financial activity through charts and summaries.
-* 🎯 **Budget Management** — Create, update, and delete budgets to monitor spending limits.
-* 🏷️ **Custom Categories** — Create, rename, and delete transaction categories.
-* 💾 **Persistent Storage** — User and financial data are securely stored in MongoDB.
-* 🔄 **Authenticated API** — Protected backend endpoints using token-based authentication.
+* 🔐 **Google Authentication** - Secure sign-in using Google OAuth 2.0.
+* 💸 **Transaction Management** - Create, view, update, and delete income and expense transactions.
+* 📊 **Dashboard & Analytics** - Visualize spending and financial activity through charts and summaries.
+* 🎯 **Budget Management** - Create, update, and delete budgets to monitor spending limits.
+* 🏷️ **Custom Categories** - Create, rename, and delete transaction categories.
+* 💾 **Persistent Storage** - User and financial data are securely stored in MongoDB.
+* 🔄 **Authenticated API** - Protected backend endpoints using token-based authentication.
 
 ## Getting Started
 
@@ -113,11 +113,11 @@ http://localhost:5173
 Start both services locally:
 
 ```bash
-# Terminal 1 — Backend
+# Terminal 1 - Backend
 cd server
 npm start
 
-# Terminal 2 — Frontend
+# Terminal 2 - Frontend
 cd client
 npm run dev
 ```
